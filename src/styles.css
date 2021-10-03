@@ -1,0 +1,14 @@
+.buttonContainer {
+  padding: 50px 0;
+}
+
+.buttonContainer button {
+  background: #00e2c4;
+  color: #000000;
+  margin: 0 5px;
+}
+
+.buttonContainer button:hover {
+  background: #000000;
+  color: #ffffff;
+}
